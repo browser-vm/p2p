@@ -1,4 +1,8 @@
 # P2P File Transfer Website
+![Rust](https://img.shields.io/badge/Rust-1.72-orange?style=for-the-badge&logo=rust)
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 
 ## Overview
 
